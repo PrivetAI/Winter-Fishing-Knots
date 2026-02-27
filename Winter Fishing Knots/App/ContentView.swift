@@ -12,7 +12,7 @@ struct ContentView: View {
                 HookIcon()
                     .stroke(AppTheme.accent, lineWidth: AppTheme.medLine)
                     .frame(width: 20, height: 20)
-                Text("WINTER FISHING HOLE")
+                Text("WINTER FISHING KNOTS")
                     .font(.system(size: 13, weight: .bold, design: .monospaced))
                     .foregroundColor(AppTheme.frostWhite)
                     .tracking(1.5)

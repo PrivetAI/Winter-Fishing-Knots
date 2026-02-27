@@ -15,7 +15,7 @@ struct AboutView: View {
                             HookIcon()
                                 .stroke(AppTheme.accent, lineWidth: 2)
                                 .frame(width: 50, height: 50)
-                            Text("WINTER FISHING HOLE")
+                            Text("WINTER FISHING KNOTS")
                                 .font(.system(size: 16, weight: .bold, design: .monospaced))
                                 .foregroundColor(AppTheme.frostWhite)
                                 .tracking(2)
